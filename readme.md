@@ -20,7 +20,7 @@ embedded_example_file: "examples/TCST_2103_minimal/TCST_2103_minimal.ino"
 
 # Lichtschranke
 
-![Lichtschranke](./14_lichtschranke.jpg)
+![Lichtschranke](./14_lichtschranke.png)
 
 ## Beschreibung
 Die Gabellichtschranke funktioniert wie eine klassische Lichtschranke in einer kompakten Bauweise. Das Modul erkennt, sobald die Lichtschranke zwischen den zwei integrierten Dioden durch einen lichtundurchlässigen Gegenstand unterbrochen wird.
