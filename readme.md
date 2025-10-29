@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-VISHAY-TCST_2103.git"
 repo_prefix: "mks"
 repo_part: "TCST_2103"
 embedded_example_file: "examples/TCST_2103_minimal/TCST_2103_minimal.ino"
+title: 'Lichtschranke'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
